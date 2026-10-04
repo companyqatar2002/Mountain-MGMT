@@ -1,0 +1,19 @@
+USE MountainApp;
+GO
+
+UPDATE dbo.Users
+SET TwoFactorOn = 0,
+    TOTPSecret = NULL
+WHERE Username = 'superadmin';
+GO
+
+SELECT
+    Id,
+    Username,
+    Role,
+    Active,
+    TOTPSecret,
+    TwoFactorOn
+FROM dbo.Users
+WHERE Username = 'superadmin';
+GO

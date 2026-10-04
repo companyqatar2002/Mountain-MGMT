@@ -1,0 +1,471 @@
+[2026-10-04 12:12:39] STARTUP WARNING - could not reach the database to check/create the Super Admin account: Globalization Invariant Mode is not supported.
+[2026-10-04 12:12:39] The app will still start. Fix the connection string in appsettings.json (see README 'IIS troubleshooting'), then restart.
+[2026-10-04 12:13:17] UNHANDLED on POST /api/login: System.NotSupportedException: Globalization Invariant Mode is not supported.
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 227
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:14:40] UNHANDLED on POST /api/login: System.NotSupportedException: Globalization Invariant Mode is not supported.
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 227
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:14:42] UNHANDLED on POST /api/login: System.NotSupportedException: Globalization Invariant Mode is not supported.
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 227
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:14:42] UNHANDLED on POST /api/login: System.NotSupportedException: Globalization Invariant Mode is not supported.
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 227
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:14:42] UNHANDLED on POST /api/login: System.NotSupportedException: Globalization Invariant Mode is not supported.
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 227
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:15:12] STARTUP WARNING - could not reach the database to check/create the Super Admin account: Globalization Invariant Mode is not supported.
+[2026-10-04 12:15:12] The app will still start. Fix the connection string in appsettings.json (see README 'IIS troubleshooting'), then restart.
+[2026-10-04 12:15:46] UNHANDLED on POST /api/login: System.NotSupportedException: Globalization Invariant Mode is not supported.
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 227
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:21:42] ========================================================
+ SUPERADMIN PASSWORD RESET
+ Username: superadmin
+ Password: adminP@ssw0rd
+ Now remove SuperAdmin:ResetPassword from appsettings.json and restart again.
+========================================================
+[2026-10-04 12:23:27] UNHANDLED on POST /api/login: BCrypt.Net.SaltParseException: Invalid salt version
+   at BCrypt.Net.BCrypt.HashPassword(String inputKey, String salt, Boolean enhancedEntropy, HashType hashType)
+   at BCrypt.Net.BCrypt.Verify(String text, String hash, Boolean enhancedEntropy, HashType hashType)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 232
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:23:54] UNHANDLED on POST /api/login: BCrypt.Net.SaltParseException: Invalid salt version
+   at BCrypt.Net.BCrypt.HashPassword(String inputKey, String salt, Boolean enhancedEntropy, HashType hashType)
+   at BCrypt.Net.BCrypt.Verify(String text, String hash, Boolean enhancedEntropy, HashType hashType)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 232
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:23:56] UNHANDLED on POST /api/login: BCrypt.Net.SaltParseException: Invalid salt version
+   at BCrypt.Net.BCrypt.HashPassword(String inputKey, String salt, Boolean enhancedEntropy, HashType hashType)
+   at BCrypt.Net.BCrypt.Verify(String text, String hash, Boolean enhancedEntropy, HashType hashType)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 232
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:23:57] UNHANDLED on POST /api/login: BCrypt.Net.SaltParseException: Invalid salt version
+   at BCrypt.Net.BCrypt.HashPassword(String inputKey, String salt, Boolean enhancedEntropy, HashType hashType)
+   at BCrypt.Net.BCrypt.Verify(String text, String hash, Boolean enhancedEntropy, HashType hashType)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 232
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:23:57] UNHANDLED on POST /api/login: BCrypt.Net.SaltParseException: Invalid salt version
+   at BCrypt.Net.BCrypt.HashPassword(String inputKey, String salt, Boolean enhancedEntropy, HashType hashType)
+   at BCrypt.Net.BCrypt.Verify(String text, String hash, Boolean enhancedEntropy, HashType hashType)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 232
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:23:57] UNHANDLED on POST /api/login: BCrypt.Net.SaltParseException: Invalid salt version
+   at BCrypt.Net.BCrypt.HashPassword(String inputKey, String salt, Boolean enhancedEntropy, HashType hashType)
+   at BCrypt.Net.BCrypt.Verify(String text, String hash, Boolean enhancedEntropy, HashType hashType)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 232
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:24:18] UNHANDLED on POST /api/login: BCrypt.Net.SaltParseException: Invalid salt version
+   at BCrypt.Net.BCrypt.HashPassword(String inputKey, String salt, Boolean enhancedEntropy, HashType hashType)
+   at BCrypt.Net.BCrypt.Verify(String text, String hash, Boolean enhancedEntropy, HashType hashType)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 232
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:24:21] UNHANDLED on POST /api/login: BCrypt.Net.SaltParseException: Invalid salt version
+   at BCrypt.Net.BCrypt.HashPassword(String inputKey, String salt, Boolean enhancedEntropy, HashType hashType)
+   at BCrypt.Net.BCrypt.Verify(String text, String hash, Boolean enhancedEntropy, HashType hashType)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__19>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 232
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+[2026-10-04 12:24:44] ========================================================
+ SUPERADMIN PASSWORD RESET
+ Username: superadmin
+ Password: adminP@ssw0rd
+ Now remove SuperAdmin:ResetPassword from appsettings.json and restart again.
+========================================================
+[2026-10-04 12:24:57] ========================================================
+ SUPERADMIN PASSWORD RESET
+ Username: superadmin
+ Password: adminP@ssw0rd
+ Now remove SuperAdmin:ResetPassword from appsettings.json and restart again.
+========================================================
+[2026-10-04 12:29:35] ========================================================
+ SUPERADMIN PASSWORD RESET
+ Username: superadmin
+ Password: adminP@ssw0rd
+ Now remove SuperAdmin:ResetPassword from appsettings.json and restart again.
+========================================================
+[2026-10-04 12:29:59] UNHANDLED on GET /api/summary: Microsoft.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting date and/or time from character string.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_1.<<<Main>$>g__G|88>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 532
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__39>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 541
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:cb36e09d-0db6-4a96-a4b6-134352f70ce0
+Error Number:241,State:1,Class:16
+[2026-10-04 12:29:59] UNHANDLED on GET /api/summary: Microsoft.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting date and/or time from character string.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_1.<<<Main>$>g__G|88>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 532
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__39>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 541
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:cb36e09d-0db6-4a96-a4b6-134352f70ce0
+Error Number:241,State:1,Class:16
+[2026-10-04 12:30:05] UNHANDLED on GET /api/summary: Microsoft.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting date and/or time from character string.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_1.<<<Main>$>g__G|88>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 532
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__39>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 541
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:cb36e09d-0db6-4a96-a4b6-134352f70ce0
+Error Number:241,State:1,Class:16
+[2026-10-04 12:35:59] UNHANDLED on GET /api/summary: Microsoft.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting date and/or time from character string.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_1.<<<Main>$>g__G|88>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 532
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__39>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 541
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:37c85c99-66a2-4142-991d-da6408df2547
+Error Number:241,State:1,Class:16
+[2026-10-04 12:35:59] UNHANDLED on GET /api/summary: Microsoft.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting date and/or time from character string.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_1.<<<Main>$>g__G|88>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 532
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__39>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 541
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:37c85c99-66a2-4142-991d-da6408df2547
+Error Number:241,State:1,Class:16
+[2026-10-04 12:36:06] UNHANDLED on GET /api/summary: Microsoft.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting date and/or time from character string.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_1.<<<Main>$>g__G|88>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 532
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__39>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 541
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:8dfe38d1-209b-4826-8766-a0d5610c89e2
+Error Number:241,State:1,Class:16
+[2026-10-04 12:36:44] UNHANDLED on GET /api/summary: Microsoft.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting date and/or time from character string.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_1.<<<Main>$>g__G|88>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 532
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__39>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 541
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:37c85c99-66a2-4142-991d-da6408df2547
+Error Number:241,State:1,Class:16
+[2026-10-04 12:37:27] UNHANDLED on GET /api/summary: Microsoft.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting date and/or time from character string.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_1.<<<Main>$>g__G|88>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 532
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__39>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 541
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:ef77869b-0648-4361-a12c-ab5a0da67ff3
+Error Number:241,State:1,Class:16
+[2026-10-04 12:38:29] UNHANDLED on GET /api/summary: Microsoft.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting date and/or time from character string.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_1.<<<Main>$>g__G|88>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 532
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__39>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 541
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:37c85c99-66a2-4142-991d-da6408df2547
+Error Number:241,State:1,Class:16
+[2026-10-04 19:27:21] ========================================================
+ SUPERADMIN PASSWORD RESET
+ Username: superadmin
+ Password: adminP@ssw0rd
+ Now remove SuperAdmin:ResetPassword from appsettings.json and restart again.
+========================================================
+[2026-10-04 19:28:02] UNHANDLED on GET /api/reports/business: Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot perform an aggregate function on an expression containing an aggregate or a subquery.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteReader(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteReaderAsync>b__201_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__78>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 1316
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:2f95c111-476e-4d1f-9c05-8148fa527b20
+Error Number:130,State:1,Class:15
+[2026-10-04 19:28:02] UNHANDLED on GET /api/reports/business: Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot perform an aggregate function on an expression containing an aggregate or a subquery.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteReader(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteReaderAsync>b__201_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__78>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 1316
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:2f95c111-476e-4d1f-9c05-8148fa527b20
+Error Number:130,State:1,Class:15
+[2026-10-04 19:28:19] UNHANDLED on GET /api/reports/business: Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot perform an aggregate function on an expression containing an aggregate or a subquery.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderAsync(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__78>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 1316
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:0cc3ceb7-60e2-4e70-bcc8-d89797d229ee
+Error Number:130,State:1,Class:15
+[2026-10-04 19:29:54] UNHANDLED on GET /api/reports/business: Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot perform an aggregate function on an expression containing an aggregate or a subquery.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderAsync(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__78>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 1316
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:0cc3ceb7-60e2-4e70-bcc8-d89797d229ee
+Error Number:130,State:1,Class:15
+[2026-10-04 19:38:35] UNHANDLED on GET /api/reports/business: Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot perform an aggregate function on an expression containing an aggregate or a subquery.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderAsync(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__78>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 1316
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:3d39a0cf-925d-43bc-9fe2-adc0536d06f7
+Error Number:130,State:1,Class:15
+[2026-10-04 19:48:00] UNHANDLED on GET /api/reports/business: Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot perform an aggregate function on an expression containing an aggregate or a subquery.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteReaderAsync(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteScalarImplAsync[T](IDbConnection cnn, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 1241
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__78>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 1316
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>b__9>d.MoveNext() in D:\Application\Mountain_Server_v7_04102026\App\Program.cs:line 64
+ClientConnectionId:6a459ea0-739b-4e2a-a388-c502a61f7c86
+Error Number:130,State:1,Class:15
